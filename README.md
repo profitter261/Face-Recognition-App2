@@ -27,17 +27,16 @@ An AI-powered face detection and recognition web application built using **Strea
 ## System Architecture
 
 Image Upload
-↓
+    ↓
 Image Preprocessing (RGB Conversion)
-↓
+    ↓
 Face Detection (RetinaFace)
-↓
+    ↓
 Face Embedding Extraction (ArcFace)
-↓
+    ↓
 Cosine Similarity Matching
-↓
+    ↓
 Face Labeling & Visualization
-
 
 ---
 
@@ -64,9 +63,9 @@ Face Labeling & Visualization
 
 face-recognition-app/
 │
-├── app.py # Streamlit application
-├── requirements.txt # Project dependencies
-├── README.md # Documentation
+├── app.py              # Streamlit application
+├── requirements.txt    # Project dependencies
+├── README.md           # Documentation
 
 
 ---
