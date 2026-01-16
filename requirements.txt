@@ -1,0 +1,9 @@
+streamlit
+numpy
+pillow
+requests
+deepface
+tensorflow
+opencv-python
+retina-face
+mtcnn
